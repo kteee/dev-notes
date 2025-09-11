@@ -21,4 +21,4 @@ add(number1, number2, printResult, resultPhrase);
 
 // let userName: string;
 // userName = "Maximilian";
-// userName = false;
+// userName = false; -> error
